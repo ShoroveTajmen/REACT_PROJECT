@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="816091dc-3c37-43c9-8123-66bbc80dc506" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/contact-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/contact-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/contact-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/contact-app" />
+  </component>
+  <component name="ProjectId" id="2MoohvYbvICOKDRXxTsaDtDv5iN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contact-app/src/images" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\REACT_JS\contact-app\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\REACT_JS\contact-app\src\images" />
+      <recent name="C:\REACT_JS\contact-app\src\components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="816091dc-3c37-43c9-8123-66bbc80dc506" name="Default Changelist" comment="" />
+      <created>1678443418349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678443418349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1678444706557">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1678444706557" />
+    <state x="349" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1679032015612">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="349" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1679032015612" />
+  </component>
+</project>

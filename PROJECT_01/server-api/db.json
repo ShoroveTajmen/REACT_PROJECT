@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "133728c3-d4dc-413e-82b7-4fde2f1338bf",
+      "name": "tajmen",
+      "email": "tajmen@gmail.com"
+    },
+    {
+      "id": "93661a68-f52c-4496-8495-abc00021235f",
+      "name": "srvi",
+      "email": "srvi@gmail.com"
+    },
+    {
+      "id": "cd61251c-da05-44b7-8425-94b569f2aabd",
+      "name": "dipesh",
+      "email": "dipesh@gmail.com"
+    },
+    {
+      "id": "1d573829-7895-4c1c-a663-217fe4ff34bf",
+      "name": "rohan",
+      "email": "rohan@gmail.com"
+    },
+    {
+      "id": "57d78871-e4e7-4f01-b824-d5b9fcc88800",
+      "name": "sorovi",
+      "email": "sorovi@gmail.com"
+    }
+  ]
+}
